@@ -2,7 +2,7 @@
 
 # Lab Report OCR API
 
-The Lab Report OCR API is a is a web service that allows you to extract text from images and convert it into JSON or plain text formats. This API utilizes the Tesseract OCR engine to perform optical character recognition on the provided image file.. It provides two endpoints: `image-to-json` and `image-to-text`. These endpoints accept an image file as input and return the extracted text in either JSON or plain text format.
+The Lab Report OCR API is a  web service that allows you to extract text from images and convert it into JSON or plain text formats. This API utilizes the Tesseract OCR engine to perform optical character recognition on the provided image file.. It provides two endpoints: `image-to-json` and `image-to-text`. These endpoints accept an image file as input and return the extracted text in either JSON or plain text format.
 
 ## Endpoints
 
